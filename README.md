@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @CarolynnSnow
-- 👀 I’m interested in ... being smart and awesome
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... nothing, ya'll can't match up to my standards
-- 📫 How to reach me ... you CAN'T, you're not awesome enough
+Hi, this is Carolynn Snow(2 'n's, please!) and I'm currently learning Python and just coding in general. 
+My hobbies are reading, playing computer games, hugging rabbits and coding(sort of). 
+To reach me, just email carolynnsnow@gmail.com . I don't check that email, though, so I will probably never reply,or even see your email, which is just as well, because if you're looking for my contcts here, you probably aren't someone I know.
+Yeah, so that's pretty much all. Bye, and see you never!
 
-<!---
-CarolynnSnow/CarolynnSnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
